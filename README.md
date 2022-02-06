@@ -1,5 +1,7 @@
 ### Hello, folks! <img src="https://media.giphy.com/media/PhE9yZiXP0tGgK3vcP/giphy.gif" width="100" height="100" />
 
+![](https://visitor-badge.glitch.me/badge?page_id=aishwarya020.aishwarya020) 
+
 
 
 <!--
@@ -17,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 🤔🙄
 
 -->
-![](https://visitor-badge.glitch.me/badge?page_id=aishwarya020.aishwarya020)  ![](https://komarev.com/ghpvc/?username=aishwarya020&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=aishwarya020&color=brightgreen)
 
 <!--
 gap
