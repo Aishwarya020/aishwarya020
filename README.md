@@ -24,7 +24,3 @@ Here are some ideas to get you started:
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aishwarya020&theme=tokyonight)](https://git.io/streak-stats)
-
-
-
-
