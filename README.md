@@ -1,9 +1,6 @@
-### Hello, folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/>
+### Hello, folks! <iframe src="https://giphy.com/embed/PhE9yZiXP0tGgK3vcP" width="100" height="180" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-usagi-kanahei-PhE9yZiXP0tGgK3vcP">via GIPHY</a></p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=aishwarya020.aishwarya020) &nbsp; ![](https://komarev.com/ghpvc/?username=aishwarya020&color=cyan)
-
-
-![](https://readme-streak-aishwarya020.herokuapp.com?user=aishwarya020&theme=tokyonight&date_format=d F[, Y]) (https://git.io/streak-stats)
+![](https://visitor-badge.glitch.me/badge?page_id=aishwarya020.aishwarya020) &nbsp; ![](https://komarev.com/ghpvc/?username=aishwarya020&color=blue)
 
 
 <!--
