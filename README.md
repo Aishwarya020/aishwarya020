@@ -42,7 +42,7 @@ Here are some ideas to get you started:
     <a><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a><img alt="CockroachDB" src="https://img.shields.io/badge/CockroachDB-6933FF.svg?logo=cockroachlabs&logoColor=white"></a>
-    
+    <a><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-00945F.svg?logo=postgresql&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and libraries
@@ -52,9 +52,8 @@ Here are some ideas to get you started:
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>  
 </p>
 
-##
-<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 2%; margin-bottom: 0.5em;">
+## 👀 Profile Views
+<p style="float: center; font-size: 9pt; text-align: center; width: 30%; margin-right: 2%; margin-bottom: 0.5em;">
     <a><img src="https://komarev.com/ghpvc/?username=aishwarya020&color=brightgreen"></a>
     <a><img src="https://visitor-badge.glitch.me/badge?page_id=aishwarya020.aishwarya020"></a>
 </p>
-
