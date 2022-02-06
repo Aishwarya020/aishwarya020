@@ -2,7 +2,10 @@
     Welcome to Aishwarya's GitHub profile! <img src="https://media.giphy.com/media/PhE9yZiXP0tGgK3vcP/giphy.gif" width="100" height="100" />
 </h3>
 
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira&color=%23674B90&size=22&vCenter=true&width=440&height=45&lines=Software+Developer+web+and+app;4%2B+years+of+Coding+Experience;Always+Learning+New+Things" />
+
+<p align="center">
+  <a><img src="https://readme-typing-svg.herokuapp.com?font=Fira&color=%23674B90&size=22&center=true&vCenter=true&width=440&height=45&lines=Software+Developer+web+and+app;4%2B+years+of+Coding+Experience;Always+Learning+New+Things"></a>
+</p>
 
 
 <!--
