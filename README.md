@@ -28,10 +28,13 @@ Here are some ideas to get you started:
   <a><img src="https://github-readme-stats.vercel.app/api?username=aishwarya020&count_private=true&show_icons=true&theme=tokyonight"></a>
   <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=aishwarya020&theme=tokyonight"></a>
 </p>
-<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwarya020&layout=compact&theme=tokyonight"></a>
+###
+<p>
+  <a><img src="https://activity-graph.herokuapp.com/graph?username=aishwarya020&theme=rogue"></a>
 </p>
-
+<p>
+    <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwarya020&layout=compact&theme=tokyonight"></a>
+</p>
 
 #####
 
@@ -45,10 +48,10 @@ Here are some ideas to get you started:
 </p>
 
 
-
 #####
-
-<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-  <a><img src="https://visitor-badge.glitch.me/badge?page_id=aishwarya020.aishwarya020"></a>
-  <a><img src="https://komarev.com/ghpvc/?username=aishwarya020&color=brightgreen"></a>
-</p>
+<div>
+    <p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+        <a><img src="https://visitor-badge.glitch.me/badge?page_id=aishwarya020.aishwarya020"></a>
+        <a><img src="https://komarev.com/ghpvc/?username=aishwarya020&color=brightgreen"></a>
+    </p>
+</div>
