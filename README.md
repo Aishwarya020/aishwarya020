@@ -1,9 +1,9 @@
 ### Hello, folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/>
 
-![](https://visitor-badge.glitch.me/badge?page_id=aishwarya020.aishwarya020) &nbsp; ![](https://komarev.com/ghpvc/?username=harshaman&color=brightgreen)
+![](https://visitor-badge.glitch.me/badge?page_id=aishwarya020.aishwarya020) &nbsp; ![](https://komarev.com/ghpvc/?username=aishwarya020&color=cyan)
 
 
-[![GitHub Streak](https://readme-streak-aishwarya020.herokuapp.com?user=aishwarya020&theme=tokyonight&date_format=d F[, Y])](https://git.io/streak-stats)
+![](https://readme-streak-aishwarya020.herokuapp.com?user=aishwarya020&theme=tokyonight&date_format=d F[, Y]) (https://git.io/streak-stats)
 
 
 <!--
