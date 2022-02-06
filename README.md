@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 🤔🙄
 
 -->
-
+## 📊 Github stats
 
 <p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
   <a><img src="https://github-readme-stats.vercel.app/api?username=aishwarya020&count_private=true&show_icons=true&theme=tokyonight"></a>
@@ -43,6 +43,8 @@ Here are some ideas to get you started:
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     
 </p>
+
+
 
 #####
 
