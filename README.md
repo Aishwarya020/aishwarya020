@@ -1,9 +1,5 @@
 ### Hello, folks! <img src="https://media.giphy.com/media/PhE9yZiXP0tGgK3vcP/giphy.gif" width="100" height="100" />
 
-![](https://visitor-badge.glitch.me/badge?page_id=aishwarya020.aishwarya020) 
-
-
-
 <!--
 **Aishwarya020/aishwarya020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 🤔🙄
 
 -->
-![](https://komarev.com/ghpvc/?username=aishwarya020&color=brightgreen)
 
-<!--
-gap
-gap
--->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aishwarya020&theme=tokyonight)](https://git.io/streak-stats)
+
+![](https://visitor-badge.glitch.me/badge?page_id=aishwarya020.aishwarya020) &nbsp ![](https://komarev.com/ghpvc/?username=aishwarya020&color=brightgreen)
+
+
 
