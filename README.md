@@ -1,4 +1,4 @@
-### Hello, folks! <img src="https://giphy.com/stickers/transparent-usagi-kanahei-PhE9yZiXP0tGgK3vcP" width="100" height="180"/>
+### Hello, folks! <div style="width:100%;height:0;padding-bottom:108%;position:relative;"><iframe src="https://giphy.com/embed/PhE9yZiXP0tGgK3vcP" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/transparent-usagi-kanahei-PhE9yZiXP0tGgK3vcP">via GIPHY</a></p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=aishwarya020.aishwarya020) &nbsp; ![](https://komarev.com/ghpvc/?username=aishwarya020&color=blue)
 
