@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=aishwarya020.aishwarya020) &nbsp; ![](https://komarev.com/ghpvc/?username=aishwarya020&color=brightgreen)
-
 
 <p align="center">
   <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=aishwarya020&theme=tokyonight"></a>
 </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+developer+web+and+app;4+++years+of+Coding+Experience; Always+learning+new+things)](https://git.io/typing-svg)
