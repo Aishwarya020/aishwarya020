@@ -1,4 +1,4 @@
-### Hello, folks! <img src="https://giphy.com/stickers/transparent-usagi-kanahei-PhE9yZiXP0tGgK3vcP" width="100" height="100" />
+### Hello, folks! <img src="https://media.giphy.com/media/PhE9yZiXP0tGgK3vcP/giphy.gif" width="100" height="100" />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=aishwarya020.aishwarya020) &nbsp; ![](https://komarev.com/ghpvc/?username=aishwarya020&color=yellow)
 
