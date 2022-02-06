@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://readme-streak-aishwarya020.herokuapp.com?user=aishwarya020&theme=tokyonight&date_format=d F[, Y])](https://git.io/streak-stats)
+
 <!--
 **Aishwarya020/aishwarya020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
