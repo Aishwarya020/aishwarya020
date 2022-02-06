@@ -28,6 +28,11 @@ Here are some ideas to get you started:
 <p align="center">
   <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=aishwarya020&theme=tokyonight"></a>
 </p>
+<p align="center">
+  <a><img src="https://github-readme-stats.vercel.app/api?username=aishwarya020&count_private=true&show_icons=true&theme=tokyonight"></a>
+</p>
+
+###
 
 ![](https://visitor-badge.glitch.me/badge?page_id=aishwarya020.aishwarya020) &nbsp; ![](https://komarev.com/ghpvc/?username=aishwarya020&color=brightgreen)
 
