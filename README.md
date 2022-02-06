@@ -1,13 +1,6 @@
-### Hello, folks! 
+### Hello, folks! <img alt="GIF" src="https://github.com/Aishwarya020/aishwarya020/blob/main/gifCode.gif?raw=true" width="100" height="100" />
 
-<div style="width:100%;height:0;padding-bottom:108%;position:relative;">
-  <img src="https://giphy.com/embed/PhE9yZiXP0tGgK3vcP" width="50%" height="50%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen/>
-</div>
-<p>
-  <a href="https://giphy.com/stickers/transparent-usagi-kanahei-PhE9yZiXP0tGgK3vcP"></a>
-</p>
-
-![](https://visitor-badge.glitch.me/badge?page_id=aishwarya020.aishwarya020) &nbsp; ![](https://komarev.com/ghpvc/?username=aishwarya020&color=purple)
+![](https://visitor-badge.glitch.me/badge?page_id=aishwarya020.aishwarya020) &nbsp; ![](https://komarev.com/ghpvc/?username=aishwarya020&color=tokyonight)
 
 
 <!--
