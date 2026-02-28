@@ -42,7 +42,7 @@ AI-powered product concept recommending vehicles based on lifestyle signals.
 - Metrics & experimentation strategy
 - GTM planning
 
-👉 *(Add repo link once created)*
+👉 *[AutoMatch](https://medium.com/@aishwarya.rath2009/automatch-designing-an-ai-powered-vehicle-recommender-7a661e7e5ce9)*
 
 ---
 
@@ -54,8 +54,6 @@ Designed a scalable OCR workflow for document intelligence.
 - System architecture tradeoffs
 - User workflow optimization
 - API-driven product thinking
-
-👉 *(Add repo link)*
 
 ---
 
