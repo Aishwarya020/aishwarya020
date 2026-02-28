@@ -125,8 +125,8 @@ Designed a scalable OCR workflow for document intelligence.
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-- ✉️ Email: YOUR_EMAIL
+- 💼 LinkedIn: https://www.linkedin.com/in/aishwaryarath
+- ✉️ Email: aishwarya.rath2009@gmail.com
 
 ---
 
